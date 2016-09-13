@@ -6,3 +6,34 @@ Overwatch puts players into two teams of six, with each player selecting one of 
 Overwatch is Blizzard's fourth major franchise, and came about following the 2014 cancellation of the ambitious massively multiplayer online role-playing game Titan. A portion of the Titan team came up with the concept of Overwatch, based on success of team-based first-person shooters like Team Fortress 2 and the growing popularity of multiplayer online battle arenas, creating a hero-based shooter that emphasized teamwork. Some elements of Overwatch borrow assets and concepts from the canceled Titan project. After establishing the narrative of an optimistic near-future Earth setting after a global crisis, the developers aimed to create a diverse cast of heroes that spanned genders and ethnicities as part of this setting. Significant time was spent adjusting the balance of the characters, making sure that new players would still be able to have fun while skilled players would present each other with a challenge.
 
 Overwatch was unveiled at BlizzCon 2014 in a fully playable state, and was in a closed beta from late 2015 through early 2016. An open beta in May 2016 drew in more than 9.7 million players. The release of the game was promoted with short animated videos to introduce the game's narrative and each of the characters. Upon official release, Overwatch received universal acclaim from critics, who praised its accessibility and enjoyable gameplay.
+
+##영웅별 공략
+###공격
+####겐지
+####리퍼
+####맥크리
+####솔져:76
+####트레이서
+####파라
+
+###수비
+####메이
+####바스티온
+####위도우메이커
+####정크랫
+####토르비욘
+####한조
+
+###돌격
+####라인하르트
+####로드호그
+####윈스턴
+####자리야
+####D.VA
+
+###지원
+####루시우
+####메르시
+####시메트라
+####아나
+####젠야타
