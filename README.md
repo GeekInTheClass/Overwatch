@@ -1,4 +1,5 @@
 # Overwatch
+![alt text](https://blzgdapipro-a.akamaihd.net/media/wallpaper/logo-burst-wide.jpg)
 Overwatch is a team-based multiplayer first-person shooter video game developed and published by Blizzard Entertainment. It was released in May 2016 for Microsoft Windows, PlayStation 4, and Xbox One.
 
 Overwatch puts players into two teams of six, with each player selecting one of several pre-defined hero characters with unique movement, attributes, and skills; these heroes are divided into four classes: Offense, Defense, Tank and Support. Players on a team work together to secure and defend control points on a map and/or escort a payload across the map in a limited amount of time. Players gain cosmetic rewards that do not affect gameplay, such as character skins and victory poses, as they continue to play in matches. The game was launched with casual play, while Blizzard added competitive ranked play about a month after launch. Blizzard states that all Overwatch updates will remain free, with the only additional cost to players being microtransactions to earn additional cosmetic rewards.
