@@ -135,3 +135,40 @@ for item:String in list {
 }
 
 print(res)
+
+lowerWord.characters.map({(piece:Character) -> (Character) in
+    
+    if (wordDict[piece] == nil) {
+        wordDict[piece] = 1
+    } else {
+        wordDict[piece] = wordDict[piece]! + 1
+    }
+    
+    return piece
+})
+
+list.map({(item:String) -> (String) in
+    let lowerItem = item.lowercaseString
+    
+    if (lowerItem != word && lowerItem.characters.count == word.characters.count) {
+        var dict:Dictionary<Character, Int> = Dictionary<Character, Int>()
+        
+        a
+        lowerItem.characters.map({(piece:Character) -> (Character) in
+            
+            if (dict[piece] == nil) {
+                dict[piece] = 1
+            } else {
+                dict[piece] = dict[piece]! + 1
+            }
+            
+            return piece
+        })
+        
+        if (dict == wordDict) {
+            result.append(item)
+        }
+    }
+    
+    return item
+})
