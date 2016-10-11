@@ -86,6 +86,18 @@ for item in numbers4{
     }
 }
 
+func qest4(item:[Int]) -> Int {
+    var result4 = 0
+    item.map({
+        if ($0 % 2 == 0) {
+            result4 = result4 + $0
+        }
+    })
+    return result4
+}
+
+print(qest4(item:numbers4))
+
 //5번
 let word = "Orchestra"
 let lowerWord = word.lowercased()
@@ -99,6 +111,7 @@ for piece:Character in lowerWord.characters {
     }
 }
 
+print(wordDict)
 var res:Array<String> = Array<String>()
 
 for item:String in list {
@@ -120,3 +133,5 @@ for item:String in list {
         }
     }
 }
+
+print(res)
