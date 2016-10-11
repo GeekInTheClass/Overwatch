@@ -47,8 +47,15 @@ for item in numbers2{
     total2 += item
 }
 
+func qest2(item:[Int]) -> Int {
+    var result2:Int = 0
+    item.map({
+        result2 = result2 + $0
+    })
+    return result2
+}
 
-
+print(qest2(item:numbers2))
 
 //3번
 let words3 = ["h", "e", "l", "l", "o", "w", "o", "r", "l", "d"]
