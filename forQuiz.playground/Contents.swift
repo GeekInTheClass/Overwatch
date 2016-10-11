@@ -65,6 +65,17 @@ for item in words3{
     sentence3 += item
 }
 
+func qest3(item:[String]) -> String {
+    var result3 = ""
+    item.map({
+        result3.append($0)
+    })
+    return result3
+}
+
+print(qest3(item:words3))
+
+
 //4번
 let numbers4 = [1,2,3,4,5,6,7,8,9,10]
 var total4 = 0
